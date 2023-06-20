@@ -1,1 +1,1 @@
-ros_lectures
+ros_lecture
